@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+
+.bg-container{
+    background-image: url('https://ik.imagekit.io/c3q3h7pex/Food%20Store/foodmunch-banner-bg.png?updatedAt=1719754955688');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
